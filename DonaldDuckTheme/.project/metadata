@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties version="1">
+    <projectProperties>
+        <versionCode value="8"/>
+        <package value="com.yourcompanyname.test"/>
+        <name value="DonaldDuckTheme"/>
+        <versionName value="1.0.0"/>
+    </projectProperties>
+</properties>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties xmlns:meta="com.sonymobile.runtimeskinning.themecreator.project.meta" xmlns:serialized="com.sonymobile.runtimeskinning.themecreator.project.serialized" version="1">
+    <resourceValues>
+        <qualifier value="laf1-xxhdpi">
+            <resource id="@com.sonymobile.runtimeskinning.core:drawable/lockscreen_background">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="DonaldLockWallPaper.jpg"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/ic_sysbar_back">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/dellBack.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/ic_sysbar_home">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/DonaldHipHome.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/ic_sysbar_recent">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/chipApp.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/ic_sysbar_back_ime">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/dellKeyBoard.png"/>
+            </resource>
+            <resource id="@skin:drawable/theme_icon">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="Whip.png"/>
+            </resource>
+            <resource id="@livewallpaper:drawable/live_wallpaper">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="DonaldWallPaper.jpg"/>
+            </resource>
+        </qualifier>
+    </resourceValues>
+</properties>
