@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties version="1">
+    <projectProperties>
+        <versionCode value="5"/>
+        <package value="com.yourcompanyname.tanukitokitsune"/>
+        <name value="TanukiToKitsune"/>
+        <versionName value="1.0.0"/>
+        <sdkLevel min="23" target="23"/>
+    </projectProperties>
+</properties>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<icon-pack>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="THEME_FILE::resorce/buttons/theme_icon_pack_drawable_component_settings.png"/>
+</icon-pack>

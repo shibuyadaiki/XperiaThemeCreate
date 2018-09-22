@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties xmlns:meta="com.sonymobile.runtimeskinning.themecreator.project.meta" xmlns:serialized="com.sonymobile.runtimeskinning.themecreator.project.serialized" version="1">
+    <resourceValues>
+        <qualifier value="laf1-xxhdpi">
+            <resource id="@com.sonymobile.runtimeskinning.core:drawable/lockscreen_background">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/background/IMG_20180103_170548.jpg"/>
+            </resource>
+            <resource id="@livewallpaper:drawable/live_wallpaper">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/background/7494d926bd28b9c2304c45d66299c9c6--japan-design-kitsune.jpg"/>
+            </resource>
+            <resource id="@com.sonyericsson.home:drawable/home_apptray_normal">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/Daruma_App.png"/>
+            </resource>
+            <resource id="@iconpack:drawable/theme_icon_pack_drawable">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/iconpack/res/drawable-laf1-xxhdpi/theme_icon_pack_drawable.xml"/>
+            </resource>
+            <resource id="@com.sonyericsson.home:drawable/home_folder_folder_v2">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/Folder.png"/>
+            </resource>
+            <resource id="@skin:string/theme_name">
+                <value meta:resourceType="string" meta:resourceVersion="1" serialized:string="タヌキとキツネ"/>
+            </resource>
+            <resource id="@skin:drawable/theme_icon">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/thereIcon.png"/>
+            </resource>
+            <resource id="@com.sonyericsson.home:drawable/search_icon">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/Serch.png"/>
+            </resource>
+            <resource id="@com.sonyericsson.home:drawable/search_close">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/Close.png"/>
+            </resource>
+        </qualifier>
+        <qualifier value="laf2-xxhdpi">
+            <resource id="@com.android.systemui:drawable/somc_navbar_recent_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/Tanuki_App.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_back_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/Kitsune_Back.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_home_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/Tori_Home.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_menu_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/ookami_Menu.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_back_ime_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resorce/buttons/TanukiKitsune_KeyBoard.png"/>
+            </resource>
+        </qualifier>
+    </resourceValues>
+</properties>

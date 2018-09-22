@@ -2,9 +2,6 @@
 <properties xmlns:meta="com.sonymobile.runtimeskinning.themecreator.project.meta" xmlns:serialized="com.sonymobile.runtimeskinning.themecreator.project.serialized" version="1">
     <resourceValues>
         <qualifier value="laf1-xxhdpi">
-            <resource id="@com.sonymobile.runtimeskinning.core:drawable/lockscreen_background">
-                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="DonaldLockWallPaper.jpg"/>
-            </resource>
             <resource id="@com.android.systemui:drawable/ic_sysbar_back">
                 <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/dellBack.png"/>
             </resource>
@@ -18,10 +15,16 @@
                 <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouceBackUp/dellKeyBoard.png"/>
             </resource>
             <resource id="@skin:drawable/theme_icon">
-                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="Whip.png"/>
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouce/Whip.png"/>
             </resource>
             <resource id="@livewallpaper:drawable/live_wallpaper">
-                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="DonaldWallPaper.jpg"/>
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouce/DonaldWallPaper.jpg"/>
+            </resource>
+            <resource id="@com.sonymobile.runtimeskinning.core:drawable/lockscreen_background">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="resouce/DonaldLockWallPaper.jpg"/>
+            </resource>
+            <resource id="@com.sonyericsson.advancedwidget.clock:color/theme_color">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FF010101"/>
             </resource>
         </qualifier>
     </resourceValues>
